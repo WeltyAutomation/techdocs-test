@@ -12,7 +12,7 @@
 #  sourcing the docs for this theme itself.
 
 title: Welty Automation Technical Documentation
-tagline: Technical Resourcse for Welty Automation  
+tagline: Technical Resources for Welty Automation  
 deploy_url: https://heuristic-williams-de1891.netlify.app/
 canonical_url: https://asciidocsy.netlify.app # URL of original content
 # DO NOT CHANGE the canonical URL if you deploy a copy the AsciiDocsy site
