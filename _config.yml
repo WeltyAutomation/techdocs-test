@@ -11,13 +11,13 @@
 #  in this file, these are AsciiDoc flags marking places to extract for
 #  sourcing the docs for this theme itself.
 
-title: AsciiDocsy
-tagline: An AsciiDoc-ready Jekyll theme for technical documentation
-deploy_url: https://asciidocsy.netlify.app # your site's URL
+title: Welty Automation Technical Documentation
+tagline: Technical Resourcse for Welty Automation  
+deploy_url: https://heuristic-williams-de1891.netlify.app/
 canonical_url: https://asciidocsy.netlify.app # URL of original content
 # DO NOT CHANGE the canonical URL if you deploy a copy the AsciiDocsy site
 # DO change it if you replace all the content or start from scratch
-company_name: DocOps Lab
+company_name: Welty Automation
 
 # SITEWIDE JEKYLL SETTINGS
 baseurl: "" # Leave blank if your site will deploy at the root of a domain
