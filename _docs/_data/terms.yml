@@ -3,6 +3,11 @@
 #  1. automatic glossary generated at /glossary
 #  2. the [.term] inline-semantics functionality
 
+- term: Mark
+  slug: mark
+  desc: Lock Seam Rollformer section of ProFabriduct line. We use "Mark" to reference the rollformer and any mechanism that positions the rollformer(s) that produce the seam.
+  cats: [equipment]
+  
 - term: Array
   slug: array
   desc: A serialized (enumerable) data onbject type that hosts lists of scalar or enumerable objects. Sometimes capitalized along with other data object types.
